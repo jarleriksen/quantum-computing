@@ -1,4 +1,5 @@
 # Quantum Computing @ KEA
+### by Jarl Eriksen
 - Full text searchable notes
 - Written professionally in markdown
 - Easy to understand
